@@ -9,6 +9,6 @@
     <Grid>
         <Button Content="Скачать" HorizontalAlignment="Center" Margin="0,649,0,0" VerticalAlignment="Top" Click="Downloader" Height="80" Width="180"/>
         <TextBox x:Name="Urls" AcceptsReturn="True" HorizontalAlignment="Center" Margin="0,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="630" Height="580" UndoLimit="1000"/>
-
+        
     </Grid>
 </Window>

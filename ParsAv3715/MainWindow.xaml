@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:ParsAv3715"
         mc:Ignorable="d"
         Title="Av3715" Height="800" Width="650" ResizeMode="NoResize">
-    <Grid ShowGridLines="True">
+    <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"></RowDefinition>
             <RowDefinition Height="0.25*"></RowDefinition>

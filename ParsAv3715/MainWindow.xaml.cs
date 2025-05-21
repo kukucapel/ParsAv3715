@@ -43,7 +43,7 @@ namespace ParsAv3715
                 { 
                     string url = "https://mk.av3715.ru:443/КНИГИ/" + numberSession + "/" + urls[i].Replace(" ", "%20") + ".rar";
                     Process.Start(new ProcessStartInfo { FileName = @url, UseShellExecute = true });
-                    MessageBox.Show(url);
+                    //MessageBox.Show(url);
                     
                 }
             }
